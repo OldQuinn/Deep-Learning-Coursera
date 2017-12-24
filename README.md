@@ -1,2 +1,2 @@
-# Course-Deep-Learning
-Course Deep Learning 
+# Coursera-Deep-Learning
+Coursera Deep Learning 
